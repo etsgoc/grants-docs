@@ -6,7 +6,7 @@
 
 ## 📄 Documents
 
-- **[Pitch Deck (PDF)](./McJohnson-Pitch-Deck.pdf)** - 12-slide overview of product, market, team, and funding ask
+- **[Pitch Deck (PDF)](./McJohnson_Lithcoin_Pitchdesk.pdf)** - 12-slide overview of product, market, team, and funding ask
 - **[Financial Projections (PDF)](./Financial-Projections.pdf)** - Detailed 24-month budget, revenue model, and break-even analysis
 
 ---

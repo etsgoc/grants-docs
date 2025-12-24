@@ -7,7 +7,7 @@
 ## 📄 Documents
 
 - **[Pitch Deck (PDF)](./McJohnson_Lithcoin_Pitchdesk.pdf)** - 12-slide overview of product, market, team, and funding ask
-- **[Financial Projections (PDF)](./McJohnson_Wallet-FinancialProjections(24Months).pdf)** - Detailed 24-month budget, revenue model, and break-even analysis
+- **[Financial Projections (PDF)](./McJohnson_Wallet%20-%20Financial%20Projections%20(24%20Months).pdf)** - Detailed 24-month budget, revenue model, and break-even analysis
 
 ---
 
